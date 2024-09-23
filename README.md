@@ -22,8 +22,3 @@ In the main method of the `Book` class:
 2. Two objects are created using the parameterized constructor with specific values for `title`, `author`, `ISBN`, and `price`.
 3. The `displayInfo()` method is called for each book to display their details.
 4. A discount is applied to the first book, and the updated information is displayed.
-
-## UML Class Diagram
-A UML Class Diagram visualizing the structure of the `Book` class:
-
-![Снимок экрана 2024-09-20 195915](https://github.com/user-attachments/assets/ffd28616-f5c8-4656-9801-b8658310c5ba)
